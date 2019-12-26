@@ -1,0 +1,2 @@
+# bare
+central repo
